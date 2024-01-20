@@ -31,7 +31,7 @@ namespace EmployeesProject
         private void button1_Click(object sender, EventArgs e)
         {
 
-            string ConnectionString = "Data Source=QWERTY;Initial Catalog=Employees;Integrated Security=True";
+            string ConnectionString = //Veritabanı Baglanti Stringi
             string projectName = textBoxProjectName.Text;
             string startDateText = maskedTextBoxStartDate.Text;
             string endDateText = maskedTextBoxEndDate.Text;
