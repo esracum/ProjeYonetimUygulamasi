@@ -75,7 +75,7 @@ namespace EmployeesProject
 
             // TODO: SqlConnection ve SqlDataReader kullanarak veritabanından veri çekme işlemleri
             // Örnek sorgular, bağlantı ve SqlDataReader oluşturulmalıdır.
-            using (SqlConnection connection = new SqlConnection("Data Source=QWERTY;Initial Catalog=Employees;Integrated Security=True"))
+            using (SqlConnection connection = new SqlConnection("Veritabani Baglanti Stringi"))
             {
                 connection.Open();
 
