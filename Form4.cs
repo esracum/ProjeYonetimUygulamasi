@@ -36,7 +36,7 @@ namespace EmployeesProject
             try
             {
                 // Önceki labelleri temizle
-                string ConnectionString = "Data Source=QWERTY;Initial Catalog=Employees;Integrated Security=True";
+                string ConnectionString = //Veritabani Baglanti Stringi
                 flowLayoutPanel1.Controls.Clear();
 
                 using (SqlConnection connection = new SqlConnection(ConnectionString))
