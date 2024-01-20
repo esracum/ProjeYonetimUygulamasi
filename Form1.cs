@@ -120,8 +120,7 @@ namespace EmployeesProject
 
     public class DatabaseManager
     {
-        private const string ConnectionString = "Data Source=QWERTY;Initial Catalog=Employees;Integrated Security=True";
-
+        private const string ConnectionString = //Veritabani Baglanti Stringi
         public void AddUser(Users user)
         {
             using (SqlConnection connection = new SqlConnection(ConnectionString))
