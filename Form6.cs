@@ -26,7 +26,7 @@ namespace EmployeesProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string ConnectionString = "Data Source=QWERTY;Initial Catalog=Employees;Integrated Security=True";
+            string ConnectionString = //Veritabani Baglanti Stringi
             string employeeName = textBoxEmployeeName.Text;
             string employeeSurname = textBoxEmployeeSurname.Text;
             string employeeEmail = textBoxEmployeeEmail.Text;
