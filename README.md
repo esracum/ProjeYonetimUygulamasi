@@ -10,7 +10,6 @@ Bu proje, **Windows Forms (WinForms) ve C#** kullanılarak geliştirilmiş bir *
 **Görev Yönetimi** – Projeler için görevler ekleyebilir, atayabilir ve tamamlanma durumlarını takip edebilirsiniz.  
 **Kullanıcı Yönetimi** – Kullanıcıları ekleyerek onlara roller atayabilirsiniz.  
 **Durum Takibi** – Görevlerin durumlarını "Yapılacak", "Devam Ediyor", "Tamamlandı" gibi kategorilerde takip edebilirsiniz.  
-**Gelişmiş Arayüz** – Kullanıcı dostu, modern ve şık bir Windows Form arayüzü sunar.  
 **Veritabanı Entegrasyonu** – Proje ve görevlerin kalıcı olarak saklanması için **SQL Server** kullanılır.  
 
 ---
